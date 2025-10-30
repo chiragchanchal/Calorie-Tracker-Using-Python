@@ -26,13 +26,13 @@
 
 1. **Clone** this repository:
    ```bash
-   git clone https://github.com/chiragchanchal/daily-calorie-tracker.git
-   cd daily-calorie-tracker
+   git clone https://github.com/chiragchanchal/Calorie-Tracker-Using-Python.git
+   cd Calorie-Tracker-Using-Python
 Run the script:
 
 bash
 Copy code
-python calorie_tracker.py
+python tracker.py
 Follow the prompts:
 
 Enter how many meals you had.
