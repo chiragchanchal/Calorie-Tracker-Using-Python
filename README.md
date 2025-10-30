@@ -26,7 +26,7 @@
 
 1. **Clone** this repository:
    ```bash
-   git clone https://github.com/yourusername/daily-calorie-tracker.git
+   git clone https://github.com/chiragchanchal/daily-calorie-tracker.git
    cd daily-calorie-tracker
 Run the script:
 
